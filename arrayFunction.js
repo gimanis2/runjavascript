@@ -28,3 +28,5 @@ console.log(chk1);
 //every : 모든 요서가 조건에 부합해야 true 리턴
 const chk2 = names.every((name) => name.length > 5);
 console.log(chk2);
+
+//logical operators : 단축 평가 논리 계산법 구현방법
